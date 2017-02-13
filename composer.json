@@ -1,0 +1,19 @@
+{
+    "name": "mcfltychoi/aliexpress",
+    "description": "aliexpress api",
+    "type": "plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cf",
+            "email": "chaifei0515@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Aliexpress\\": "src"
+        }
+    }
+}
